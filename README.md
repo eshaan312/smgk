@@ -1,2 +1,2 @@
-# Bare-Metal Assembly Game Engine
-An unfinished project that attempted to build an efficient ray tracer on bare metal. It remained unfinished because the code had gotten too disorganized and this was my first real project in Assembly. Despite all that, this is probably still my most impressive project just because of everything the code does do, like managing multiple cores, optimizing for cache, and fully utilizing SIMD registers and instructions.
+# Simple Graphical Multi-core Kernel
+Built by Eshaan Deshmukh using the Abstram programming language.
